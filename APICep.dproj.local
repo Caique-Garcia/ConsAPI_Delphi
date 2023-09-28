@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/09/11 10:00:22.000.705,=C:\Users\Caique\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/28 12:10:31.798,=C:\Users\Caique\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/28 12:11:56.843,C:\Users\Caique\Documents\ESTUDOS_CAIQUE\Api Cep\formPrincipal.dfm=C:\Users\Caique\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/09/28 12:11:56.843,C:\Users\Caique\Documents\ESTUDOS_CAIQUE\Api Cep\formPrincipal.pas=C:\Users\Caique\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/28 12:12:05.809,C:\Users\Caique\Documents\ESTUDOS_CAIQUE\Api Cep\APICep.dproj=C:\Users\Caique\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
